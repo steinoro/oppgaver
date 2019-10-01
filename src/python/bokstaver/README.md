@@ -76,7 +76,7 @@ kan det nevnes at kommandoene er de følgende:
 __NB:__ merk at 'red' bare er et eksempel på en farge som kan brukes. Dersom en
 ønsker å bruke andre farger kan en enten prøve ulike engelske navn på farger,
 eller lese
-[dokumentasjonen](https://docs.python.org/2/library/turtle.html#color-control).
+[dokumentasjonen](https://docs.python.org/2/library/turtle.html#color-control){target=_blank}.
 
 ## Variasjoner {.challenge}
 
